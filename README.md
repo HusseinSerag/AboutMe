@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning typescript and nextjs<br>🎯 Goals: Become a fullstack developer and collaborate with other developers!</p>
+<p align="left">📚>🎯 Goals: collaborate with other developers!</p>
 
 ###
 
